@@ -78,5 +78,11 @@ public class N11Page {
     @FindBy (xpath = "(//div[@class='spinnerField ']//input)[1]")
     public WebElement artistanSonrakiIlkUrunAdet;
 
+    @FindBy (xpath = "(//div[@class='prodPrice__text']//input)[1]")
+    public WebElement urun1;
+
+    @FindBy (xpath = "(//div[@class='prodPrice__text']//input)[1]")
+    public WebElement urun2;
+
 
 }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.33">
+    <testcase classname="US101 N11 Sitesinde magazalar ve sepet testi" name="TC002 N11 alisveris sitesinde sepete urun eklemek ve sepette degisiklik yapmak" time="0.096">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given kullanici n11Url anasayfasinda........................................undefined
+And kullanici arama motorunda kulaklik kelimesi aratir......................skipped
+Then kullanici sonuclari yorum sayisina gore siralar........................skipped
+And kullanici siralanan urunlerden ucretsiz kargo olanlar listeleler........skipped
+And kullanici listelenen sonuclardan ilk sayfadaki birinci ve sonuncu urun spete ekler.skipped
+Then kullanici sepete gider.................................................skipped
+And kullanici sepetteki urunlerden ucuz olanin adedini iki yapar............skipped
+And kullanici misafir kullanici olarak odeme adimina ilerler................skipped
+]]></failure>
+    </testcase>
+</testsuite>
